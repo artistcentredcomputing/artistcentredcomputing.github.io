@@ -10,4 +10,4 @@ image:
 # Workshop Program
 
 This is where the program will be once we've recieved and reviewed the
-submissions. So go ahead and submit something!
+submissions. So go ahead and [submit]({{ site.url }}) something!
