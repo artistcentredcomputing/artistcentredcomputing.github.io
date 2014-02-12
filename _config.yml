@@ -1,13 +1,15 @@
 title: Artist-Centred Computing 2014
 description: A workshop at VL/HCC 2014
-url: http://artistcentredcomputing.github.io
+# url: http://artistcentredcomputing.github.io
+url: http://localhost:4000
 
-# Owner/author information
-owner:
-  name:           Ben Swift
-  avatar:         avatar.jpg
-  bio:            "See http://benswift.me/bio/"
-  email:          ben.swift@anu.edu.au
+# # Owner/author information
+# owner:
+  name:           ACC Workshop
+#   avatar:         avatar.jpg
+  # bio:            "See http://benswift.me/bio/"
+  email:          artistcentredcomputing@gmail.com
+  twitter:        ArtistCentred
 
 # Links to include in top navigation
 # For external links add external: true
