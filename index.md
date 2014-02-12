@@ -57,10 +57,10 @@ be provided---use them!
 
 # Important Dates
 
-- **May 3** papers due 
-- **May 31** acceptance notifications go out
-- **July 28** workshop happens
-- **July 29 - Aug 1** enjoy the rest of the [VL/HCC](https://sites.google.com/site/vlhcc2014/) conference
+| **May 3** | papers due |
+| **May 31** | acceptance notifications go out |
+| **July 28** | workshop happens |
+| **July 29---Aug 1** | enjoy the rest of the [VL/HCC](https://sites.google.com/site/vlhcc2014/) conference |
 
 # How to Submit
 
