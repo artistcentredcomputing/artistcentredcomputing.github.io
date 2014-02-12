@@ -14,7 +14,9 @@ owner:
 links:
   - title: Home
     url: /
-  - title: VL/HCC Main Site
+  - title: Program
+    url: /program/
+  - title: VL/HCC Site
     url: https://sites.google.com/site/vlhcc2014/
     external: true
 
