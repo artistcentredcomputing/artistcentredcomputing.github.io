@@ -2,9 +2,7 @@
 layout: page
 description: "Artist-Centred Computing Workshop, 28 Jun, Melbourne Australia - part of VL/HCC 2014"
 image:
-  feature: texture-feature-01.jpg
-  credit: Texture Lovers
-  creditlink: http://texturelovers.com
+  feature: acc-header.jpg
 ---
 
 # Workshop Program

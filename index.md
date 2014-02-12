@@ -5,6 +5,10 @@ image:
   feature: acc-header.jpg
 ---
 
+# ACC 2014: Artist-Centred Computing Workshop
+
+### Part of VL/HCC 2014
+
 Computers have had a long history of being used and abused by artists
 in their craft, and there are very few programming languages
 (including visual languages) which have not been used in service of
