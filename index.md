@@ -1,10 +1,8 @@
 ---
-layout: home
+layout: page
 description: "Artist-Centred Computing Workshop, 28 Jun, Melbourne Australia - part of VL/HCC 2014"
 image:
-  feature: texture-feature-01.jpg
-  credit: Texture Lovers
-  creditlink: http://texturelovers.com
+  feature: acc-header.jpg
 ---
 
 Computers have had a long history of being used and abused by artists
@@ -73,4 +71,4 @@ and accompanying video is encouraged. Submit your paper through
 
 # Questions/Suggestions
 
-Get in touch with us at artisticentredcomputing@gmail.com
+Get in touch with us at [artisticentredcomputing@gmail.com](mailto:artisticentredcomputing@gmail.com)
