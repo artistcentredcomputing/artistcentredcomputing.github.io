@@ -12,15 +12,13 @@ this goal. However, few of these languages were designed specifically
 by and for artists. Ironically, the humanities are often overlooked in
 human-centred computing.
 
-This workshop aims to explore the design objectives and constraints of
-building programming languages/environments *for artists*. It is a
-place where computer scientists---many of whom have a deep interest in
-the arts---can bring their 'day job' expertise to bear on this design
-challenge.
-
-Artist-Centred Computing is a workshop at the [2014 IEEE Symposium on
-  Visual Languages and Human-Centric
-  Computing](https://sites.google.com/site/vlhcc2014/)
+The Artist-Centred Computing workshop is an opportunity to explore the
+design objectives and constraints of building programming
+languages/environments *for artists*. It is a place where computer
+scientists---many of whom have a deep interest in the arts---can bring
+their 'day job' expertise to bear on this design challenge. ACC 2014
+is a workshop at the
+[2014 IEEE Symposium on Visual Languages and Human-Centric Computing](https://sites.google.com/site/vlhcc2014/).
 
 # Call for Papers
 
@@ -65,9 +63,9 @@ be provided---use them!
 # How to Submit
 
 Contributions should be 4 pages in the
-[VL/HCC Short Paper format](https://sites.google.com/site/vlhcc2014/),
+[VL/HCC Short Paper format](http://www.ieee.org/conferences_events/conferences/publishing/templates.html),
 and accompanying video is encouraged. Submit your paper through
-[EasyChair](https://precisionconference.com)
+[EasyChair](https://www.easychair.org/conferences/?conf=vlhcc2014)
 
 # Questions/Suggestions
 
