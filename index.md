@@ -18,10 +18,12 @@ human-centred computing.
 
 The Artist-Centred Computing workshop is an opportunity to explore the
 design objectives and constraints of building programming
-languages/environments *for artists*. It is a place where computer
-scientists---many of whom have a deep interest in the arts---can bring
-their 'day job' expertise to bear on this design challenge. ACC 2014
-is a workshop at the
+languages/environments *for artists*. Rather than considering specific
+artworks, it's a chance to wrestle with the technical issues which
+arise when designing *systems* for artistic creation. It's a chance
+for computer scientists---many of whom have a deep interest in the
+arts---can bring their 'day job' expertise to bear on this design
+challenge. ACC 2014 is a workshop at the
 [2014 IEEE Symposium on Visual Languages and Human-Centric Computing](https://sites.google.com/site/vlhcc2014/).
 
 # Call for Papers
@@ -29,10 +31,9 @@ is a workshop at the
 We are soliciting works with technical and artistic merit, in areas
 such as:
 
-- domain-specific languages vs general purpose languages: do artists
-  *need* different computing environments from the rest of us?
-- technical "artist talks": artistic exhibitions/performances with
-  analysis from a HCC perspective
+- domain-specific languages vs general purpose languages for artistic
+ creation
+- do artists *need* different computing environments from the rest of us?
 - in-depth technical analyses of and comparisons between
   artist-centred languages or created artworks
 - how do we evaluate languages for artists?
