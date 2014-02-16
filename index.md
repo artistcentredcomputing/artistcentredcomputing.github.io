@@ -1,6 +1,6 @@
 ---
 layout: page
-description: "Artist-Centred Computing Workshop, 28 Jun, Melbourne Australia - part of VL/HCC 2014"
+description: "Artist-Centred Computing Workshop, 29 Jul, Melbourne Australia - part of VL/HCC 2014"
 image:
   feature: acc-header.jpg
 ---
@@ -55,22 +55,22 @@ just so much rubbish, then submit a paper and argue your case!
 # Workshop format
 
 10 minute talks (+ 5 minutes for questions), **live
-performance/creation encouraged**. A sweet PA and an HD projector will
-be provided---use them!
+performance/creation encouraged**. A sweet PA and projector will be
+provided---use them!
 
 # Important Dates
 
 | **May 3** | papers due |
 | **May 31** | acceptance notifications go out |
-| **July 28** | workshop happens |
-| **July 29---Aug 1** | enjoy the rest of the [VL/HCC](https://sites.google.com/site/vlhcc2014/) conference |
+| **July 29** | workshop happens |
+| **July 30---Aug 1** | enjoy the rest of the [VL/HCC](https://sites.google.com/site/vlhcc2014/) conference |
 
 # How to Submit
 
 Contributions should be 4 pages in the
 [VL/HCC Short Paper format](http://www.ieee.org/conferences_events/conferences/publishing/templates.html),
 and accompanying video is encouraged. Submit your paper through
-[EasyChair](https://www.easychair.org/conferences/?conf=vlhcc2014)
+[EasyChair](https://www.easychair.org/conferences/?conf=acc14)
 
 # Questions/Suggestions
 
