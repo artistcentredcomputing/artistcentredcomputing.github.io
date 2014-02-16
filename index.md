@@ -54,7 +54,7 @@ just so much rubbish, then submit a paper and argue your case!
   
 # Workshop format
 
-10 minute talks (+ 5 minutes for questions), **live
+20 minute presentations (including questions), **live
 performance/creation encouraged**. A sweet PA and projector will be
 provided---use them!
 
