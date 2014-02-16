@@ -54,7 +54,7 @@ just so much rubbish, then submit a paper and argue your case!
   
 # Workshop format
 
-20 minute presentations (including questions), **live
+15-20 minute (TBC) presentations (including questions), **live
 performance/creation encouraged**. A sweet PA and projector will be
 provided---use them!
 
