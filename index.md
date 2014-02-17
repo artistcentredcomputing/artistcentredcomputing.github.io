@@ -32,10 +32,10 @@ We are soliciting works with technical and artistic merit, in areas
 such as:
 
 - domain-specific languages vs general purpose languages for artistic
- creation
-- do artists *need* different computing environments from the rest of us?
+  creation: do artists *need* different computing environments from
+  the rest of us?
 - in-depth technical analyses of and comparisons between
-  artist-centred languages or created artworks
+  artist-centred languages
 - how do we evaluate languages for artists?
 - what would a language designed by Beethoven look like?
   Michaelangelo? Stravinsky?
