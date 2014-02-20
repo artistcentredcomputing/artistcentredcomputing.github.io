@@ -60,7 +60,7 @@ provided---use them!
 
 # Important Dates
 
-| **May 3** | papers due |
+| **May 7** | papers due |
 | **May 31** | acceptance notifications go out |
 | **July 29** | workshop happens |
 | **July 30---Aug 1** | enjoy the rest of the [VL/HCC](https://sites.google.com/site/vlhcc2014/) conference |
@@ -72,6 +72,16 @@ Contributions should be 4 pages in the
 and accompanying video is encouraged. Submit your paper through
 [EasyChair](https://www.easychair.org/conferences/?conf=acc14)
 
-# Questions/Suggestions
+*TBC* The accepted papers will be published and indexed as an IEEE
+ Workshop Proceedings.
+
+# Conference Location
+
+Come to Melbourne; hang out in hipster laneway cafes, go to an indie
+shoegaze side gig, sink a beer at a rooftop bar. Seriously, we can
+hook you up with any of those things. Melbourne is internationally
+recognised (by people from Melbourne) as Australia's cultural capital.
+
+# Questions
 
 Get in touch with us at [artisticentredcomputing@gmail.com](mailto:artisticentredcomputing@gmail.com)
