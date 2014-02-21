@@ -72,8 +72,24 @@ Contributions should be 4 pages in the
 and accompanying video is encouraged. Submit your paper through
 [EasyChair](https://www.easychair.org/conferences/?conf=acc14)
 
-*TBC* The accepted papers will be published and indexed as an IEEE
- Workshop Proceedings.
+<!-- *TBC* The accepted papers will be published and indexed as an IEEE -->
+<!--  Workshop Proceedings. -->
+
+# ACC '14 Committee
+
+ACC '14 is brought to you by:
+
+- **Ben Swift** *(Organiser)* - (Australian National University)
+- **John Hoksing** *(Organiser)* - (Australian National University)
+- **Henry Gardner** *(Organiser)* - (Australian National University)
+- **Andrew Sorensen** *(Organiser)* - (Queensland University of Technology)
+- **Ross Bencina** - (Sonic Fritter Pty. Ltd.)
+- **Alan Blackwell** - (Cambridge University)
+- **Sam Aaron** - (Cambridge University)
+- **Rhazes Spell** - (Victoria University of Wellington)
+- **Andrew Brown** - (Griffith University)
+- **Toby Gifford** - (Griffith University)
+- **Steve Tanimoto** (University of Washington)
 
 # Conference Location
 
