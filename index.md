@@ -50,7 +50,8 @@ just so much rubbish, then submit a paper and argue your case!
 # Keynote
 
 **Ross Bencina** is a programmer/artist and the creator of
-  [AudioMulch](http://www.audiomulch.com).
+  [AudioMulch](http://www.audiomulch.com):software for real-time audio
+  processing and improvised music performance.
   
 # Workshop format
 
