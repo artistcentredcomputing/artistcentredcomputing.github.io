@@ -70,8 +70,9 @@ provided---use them!
 
 Contributions should be 4 pages in the
 [VL/HCC Short Paper format](http://www.ieee.org/conferences_events/conferences/publishing/templates.html),
-and accompanying video is encouraged. Submit your paper through
-[EasyChair](https://www.easychair.org/conferences/?conf=acc14)
+and accompanying video is encouraged. Submit your papers through
+[the ACC EasyChair site](https://www.easychair.org/conferences/?conf=acc14),
+**not** through the main VL/HCC EasyChair site.
 
 <!-- *TBC* The accepted papers will be published and indexed as an IEEE -->
 <!--  Workshop Proceedings. -->
