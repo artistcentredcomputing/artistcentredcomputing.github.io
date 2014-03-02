@@ -102,4 +102,4 @@ recognised (by people from Melbourne) as Australia's cultural capital.
 
 # Questions
 
-Get in touch with us at [artisticentredcomputing@gmail.com](mailto:artisticentredcomputing@gmail.com)
+Get in touch at [benjamin.j.swift@gmail.com](mailto:benjamin.j.swift@gmail.com)
