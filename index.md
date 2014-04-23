@@ -63,7 +63,7 @@ provided---use them!
 
 # Important Dates
 
-| **May 7** | papers due |
+| **May 11** | papers due |
 | **May 31** | acceptance notifications |
 | **July 29** | workshop happens |
 | **July 30---Aug 1** | enjoy the rest of [VL/HCC](https://sites.google.com/site/vlhcc2014/) |
