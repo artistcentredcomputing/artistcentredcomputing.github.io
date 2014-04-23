@@ -47,12 +47,14 @@ such as:
 And if you think the whole notion of "Artist-Centred Computing" is
 just so much rubbish, then submit a paper and argue your case!
 
+The workshop proceedings will be published through the IEEE.
+
 # Keynote
 
 **Ross Bencina** is a programmer/artist and the creator of
   [AudioMulch](http://www.audiomulch.com): software for real-time audio
   processing and improvised music performance.
-  
+
 # Workshop format
 
 15-20 minute (TBC) presentations (including questions), **live
